@@ -1,5 +1,4 @@
-### MultiSkype
-### Run Skype as much as you need
+SkyPie
 
 It was privius version of App Name, after it I make desigion for change it to SkyPie
 Just Like it 
